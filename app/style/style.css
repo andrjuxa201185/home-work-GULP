@@ -4,6 +4,10 @@ header{
     width: 100%;
     z-index: 9999;
 }
+
+
+
+
 .container .navbar a.my-logo{
     font-weight: 100;
     font-size: 30px;
