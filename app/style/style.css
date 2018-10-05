@@ -6,15 +6,11 @@ header{
 }
 
 
-
-
 .container .navbar a.my-logo{
     font-weight: 100;
     font-size: 30px;
     color: #00e0d0;
 }
-
-
 
 
 .container .navbar a.my-nav-link{
@@ -25,12 +21,9 @@ header{
     color: white;
     font-weight: bold;
 }
-
 .container .navbar .my-active-link a{
     color: #00e0d0;
 }
-
-
 /* caurusel */
 .my-carousel-item{
     height: 100vh;
