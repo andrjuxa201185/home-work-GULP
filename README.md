@@ -1,13 +1,13 @@
-#Instructions:
+#  Instructions:
 
-##Clone this project:
+##  Clone this project:
 
 git clone https://github.com/andrjuxa201185/home-work12.git
 
-##Upload packages:
+##  Upload packages:
 
 npm install
 
-##Create distributed folder and run server:
+##  Create distributed folder and run server:
 
 gulp
